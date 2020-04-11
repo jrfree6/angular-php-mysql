@@ -1,6 +1,6 @@
 # angular-php-app
 <h4 align="center">
-  Crud Adonisjs
+  Crud Angularjs + php + mysql
 </h4>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/jrfree6/angular-php-mysql">
