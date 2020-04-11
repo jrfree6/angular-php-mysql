@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+}
+body{
+    display: flex;
+    align-items: center;
+}
+.container{
+    display: flexbox;
+    align-items: center;
+    
+}
+input[type=text] {
+    width: 100%;
+    padding: 2px 5px;
+    margin: 2px 0;
+    border: 1px solid red;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+head, th{
+    padding: 10 10;
+    background-color: #c0ffee;
+}
+th, td {
+    padding: 1px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+
+  }
+  tr:hover {background-color: #9e9393;}
+  
+  .form1{
+    display: flex;
+    border: 1px solid;
+    width: 100%;
+  }
